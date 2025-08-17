@@ -11,7 +11,7 @@ setup(
     description="一个基于TextFSM和Jinja2的文本解析和渲染库",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/textfsm-jinja",
+    url="https://github.com/duanfu456/textfsm-jinja",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
